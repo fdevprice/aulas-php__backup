@@ -26,6 +26,13 @@ Usamos a linguagem marksown para estruturar rapidamente textos
 3. Front-End
 
 
-`console.log("Olá")`
+
 
 ## Imagens
+![Logo tipo php](php-logo-atualizado.png)
+
+
+### Lista de tarefas 
+- [ ] Briefing 
+- [x] Rascunho
+- [ ] Design
